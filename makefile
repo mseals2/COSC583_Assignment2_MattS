@@ -1,3 +1,3 @@
-output: RSAenc.java MillerRabin.java RSAdec.java RSAkeyGen.java
-	javac RSAenc.java MillerRabin.java RSAdec.java RSAkeyGen.java
-	
+output: RSASign.java MillerRabin.java RSAValidate.java RSAkeyGen.java RSAenc.java RSAdec.java unlock.java lock.java
+	javac RSASign.java MillerRabin.java RSAValidate.java RSAkeyGen.java RSAenc.java RSAdec.java unlock.java lock.java
+
